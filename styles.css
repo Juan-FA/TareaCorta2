@@ -1,0 +1,31 @@
+body{
+    background-color:  #c08023 ;
+    border: 10px dotted orange;
+}
+
+p{
+    color:   #ff8c31 ;
+}
+
+.Parrafo{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color:   #f71313  ;
+    background-color: black;
+    border: 10px groove orange;
+}
+
+#Reglas{
+    border: 5px groove orange;
+}
+
+h3{
+    color: red;
+}
+.jugador{
+    border : 5px solid black;
+    color: brown;
+}
